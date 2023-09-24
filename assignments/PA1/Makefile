@@ -1,7 +1,7 @@
 
 ASSN = 1
 CLASS= dcc053
-CLASSDIR= /usr/coolc
+CLASSDIR= /mnt/d/Desktop/coolc
 SRC= stack.cl README 
 LSRC= Makefile atoi.cl stack.test
 

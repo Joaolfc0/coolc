@@ -1,7 +1,7 @@
 
 ASSN = 4
 CLASS= dcc053
-CLASSDIR= /usr/coolc
+CLASSDIR= /mnt/d/Desktop/coolc
 LIB= 
 AR= ar
 ARCHIVE_NEW= -cr
