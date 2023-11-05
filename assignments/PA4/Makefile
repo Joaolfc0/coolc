@@ -1,7 +1,7 @@
 
 ASSN = 4
 CLASS= dcc053
-CLASSDIR= /mnt/d/Desktop/coolc
+CLASSDIR= /home/joaolfc/Área\ de\ trabalho/coolc-compiler/coolc
 LIB= 
 AR= ar
 ARCHIVE_NEW= -cr
